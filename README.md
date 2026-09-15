@@ -1,26 +1,26 @@
 # Hi there! 👋
 
-I'm Maikel Alejandro, a passionate computer science student, and I love to code with React and JavaScript. Welcome to my GitHub profile!
+I'm Maikel Alejandro, a Computer Science Engineer focused on building impactful software products and experiences. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student
-- 💻 Coding enthusiast
-- 🚀 Exploring the world of React and JavaScript
-- 🌱 Always learning, always growing
+- 🎓 Computer Science Engineer
+- 🏗️ Focused on software architecture and design patterns
+- 🧠 Building context-aware solutions with AI agents and context engineering practices
+- 🇨🇺 Currently centered on high-impact projects for Cuban businesses
 
 ## 🛠️ My Tech Stack
 
-Here are some of the technologies I work with:
+I can move comfortably across almost any technology stack. Currently, I build applications with:
 
-- **Front-end**: React, JavaScript, HTML, CSS
-- **Version Control**: Git, GitHub
-- **Code Editors**: Visual Studio Code
-- **Operating System**: Windows 11 and Linux (Ubuntu)
+- **Core stack**: Rust, Tauri, Flutter, SvelteKit, Next.js
+- **Product & UX**: UX design for highly effective user experiences, Figma
+- **Engineering**: Software architecture, design patterns, context-driven solution design
+- **Management**: Project management and product execution workflows
 
 ## 🌟 Projects
 
-I'm constantly working on personal projects and contributing to open source. Here are some of my recent projects:
+I'm constantly working on personal projects and contributing to open source. I'm currently building my own project management tool and applying these practices in real business contexts.
 
 - 🌐 [Project 1](https://github.com/yourusername/project1): A brief description of what this project is about.
 - 📊 [Project 2](https://github.com/yourusername/project2): An awesome project related to something you're passionate about.
